@@ -1,0 +1,10 @@
+opencv-python
+torch
+torchvision
+transformers
+faiss-cpu
+numpy
+Pillow
+tqdm
+streamlit
+sentence-transformers
