@@ -1,0 +1,30 @@
+{
+  "query": "person walking ",
+  "results": [
+    {
+      "frame": "frames\\frame_27.jpg",
+      "score": 1.1554744243621826,
+      "timestamp": "00:00:27"
+    },
+    {
+      "frame": "frames\\frame_26.jpg",
+      "score": 1.1657620668411255,
+      "timestamp": "00:00:26"
+    },
+    {
+      "frame": "frames\\frame_21.jpg",
+      "score": 1.1822824478149414,
+      "timestamp": "00:00:21"
+    },
+    {
+      "frame": "frames\\frame_20.jpg",
+      "score": 1.1970194578170776,
+      "timestamp": "00:00:20"
+    },
+    {
+      "frame": "frames\\frame_43.jpg",
+      "score": 1.2075766324996948,
+      "timestamp": "00:00:43"
+    }
+  ]
+}
